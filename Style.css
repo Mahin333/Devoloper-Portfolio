@@ -40,3 +40,39 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.orange-color{
+    color: orange;
+}
+
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.exp1{width: 40%;
+    padding: 70px;
+    margin: 60px;
+    box-shadow: 10px 10px 30px gray;
+    
+    
+
+}
+
+#border-color1{
+    border-left: 10px solid;
+    border-image: linear-gradient(red, cyan) 30;
+    border-image-slice: 1;
+}
+
+#border-color2{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan) 30;
+    border-image-slice: 1;
+    
+}
+footer p{
+    text-align: center;
+    background-color: rgb(208, 211, 214);
+}
+
